@@ -18,27 +18,27 @@
 }
 .header-middle-link .header-info:last-child{
     width: 25%;
-}     
+}
 .banner-content h4 {
     font-size: 20px;
     max-width: 490px;
-}    
+}
 .banner-contact span {
     font-size: 16px;
-}    
-    
-    
-    
-    
-    
-    
-    
-    
-	     
-    
-    
-    
-    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
@@ -53,7 +53,7 @@
     position: relative;
     margin-top: 0px;
     z-index: 9;
-}        
+}
 .header-middle-area .header-info {
     width: 36%;
     padding: 28px 0px;
@@ -73,7 +73,7 @@
 }
 .slider-content {
     margin-top: -95px;
-}   
+}
 .layer-1 h1 {
     font-size: 26px;
     line-height: 32px;
@@ -84,13 +84,13 @@
 }
 .ready-btn {
     margin-top: 5px;
-}   
+}
 .about-content h4 {
     font-size: 20px;
-}    
+}
 .single-about h5 {
     font-size: 12px;
-}    
+}
 .single-service {
     padding: 10px 8px;
 }
@@ -105,11 +105,11 @@
 }
 .well-services {
     padding: 20px 8px;
-}  
+}
 .topbar-area.topbar-2 .topbar-left ul li a,
 .topbar-area.topbar-3 .topbar-left ul li a{
     margin-right: 6px;
-} 
+}
 .header-area-2 .logo a {
     padding: 15px 0;
 }
@@ -161,30 +161,30 @@
 }
 .feature-text h4 {
     font-size: 16px;
-}    
+}
 .feature-text p {
     font-size: 14px;
-}    
+}
 .single-member {
     padding: 10px;
-}    
+}
 .table-list {
     margin-bottom: 30px;
-}    
+}
 .left-menu ul li a {
     font-size: 13px;
 	padding: 14px 10px;
-}    
+}
 .down-btn {
     font-size: 12px;
-}    
+}
 .support-text h4 {
     margin-bottom: 15px;
     font-size: 20px;
-}    
+}
 .support-text a {
     font-size: 16px;
-}    
+}
 .support-text p {
     font-size: 15px;
     line-height: 24px;
@@ -195,16 +195,16 @@
 .mar-row .single-well {
     margin-top: 15px;
     margin-bottom: 15px;
-}   
+}
 .project-dec h4 {
     font-size: 15px;
-}    
+}
 .project-dec span{
-   font-size: 13px; 
+   font-size: 13px;
 }
 .project-column-4 .project-single{
   width: 33.34%;
-}    
+}
 .project-details h3 {
     font-size: 18px;
     line-height: 22px;
@@ -216,7 +216,7 @@
 }
 .contact-head h3 {
     font-size: 24px;
-} 
+}
 .contact-page .single-contact a i{
     margin-right: 5px;
 }
@@ -229,7 +229,7 @@
 }
 .well-inner {
     padding: 30px 10px;
-}       
+}
 .topbar-2 .topbar-left > ul li:last-child,
 .topbar-3 .topbar-left > ul li:last-child{
 	display: none;
@@ -254,8 +254,8 @@
 }
 .main-well {
     padding: 30px 0px 0px;
-}    
-    
+}
+
 }
 
 /* small mobile :320px. */
@@ -283,10 +283,10 @@
     margin: 5px 0;
 }
 .layer-1 h1 {
-    font-size: 17px;
+    font-size: 15px;
     line-height: 20px;
     margin-bottom: 10px;
-} 
+}
 .layer-2 p {
     font-size: 13px;
     letter-spacing: 0px;
@@ -294,12 +294,12 @@
 }
  .ready-btn.right-btn {
     margin-left: 5px;
-}   
+}
 .ready-btn {
     margin-top: 0px;
     padding: 8px 20px 8px 5px;
     width: 128px;
-}    
+}
 .intro-area {
     width: 100%;
     height: auto;
@@ -332,22 +332,22 @@
     float: none;
     margin-right: 0%;
     margin-top: 20px;
-}   
+}
 .fun_text {
     float: none;
     width: 100%;
     margin-bottom: 30px;
-}    
+}
 .fun_text span {
     font-size: 28px;
-}    
+}
 .project-single {
     width: 100% !important;
     float: none;
-}    
+}
 .service-content h4 {
     font-size: 16px;
-}       
+}
 .footer-content {
     margin: 20px 0px;;
 }
@@ -430,10 +430,10 @@
 }
 .project-name ul li {
     font-size: 15px;
-} 
+}
 .project-image img{
     margin: 10px 0px;
-}   
+}
 .project-related .project-single{
     margin:15px 0px;
 }
@@ -459,7 +459,7 @@
 .video-text h4 {
     line-height: 26px;
     font-size: 19px;
-}	
+}
 .tab-menu ul.nav li a {
     padding: 10px 4px;
     margin-right: 0px;
@@ -476,12 +476,12 @@
 }
 .sub-head p {
 	margin-bottom: 40px;
-}	
+}
 .blog-search-option input {
     width: 75%;
-}	
-	
-    
+}
+
+
 }
 
 /* Large Mobile :480px. */
@@ -497,8 +497,7 @@
 }
 .project-menu li {
     display: inline-block;
-}    
-    
-    
 }
- 
+
+
+}
